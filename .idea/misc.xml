@@ -3,13 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/yassine/Mogo_App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1705" />
         <entry key="..\:/Users/yassine/Mogo_App/app/src/main/res/drawable/box_grey.xml" value="0.2025" />
         <entry key="..\:/Users/yassine/Mogo_App/app/src/main/res/drawable/box_pink.xml" value="0.1785" />
         <entry key="..\:/Users/yassine/Mogo_App/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/yassine/Mogo_App/app/src/main/res/layout/contextpage.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yassine/Mogo_App/app/src/main/res/layout/contextpage.xml" value="0.264" />
         <entry key="..\:/Users/yassine/Mogo_App/app/src/main/res/layout/loginmenu.xml" value="0.264" />
         <entry key="..\:/Users/yassine/Mogo_App/app/src/main/res/layout/mainmenu.xml" value="0.264" />
-        <entry key="..\:/Users/yassine/Mogo_App/app/src/main/res/layout/signupmenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yassine/Mogo_App/app/src/main/res/layout/signupmenu.xml" value="0.264" />
+        <entry key="..\:/Users/yassine/Mogo_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.133" />
       </map>
     </option>
   </component>

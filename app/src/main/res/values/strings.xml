@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Mogo_App</string>
+    <string name="ERROR">Error</string>
 </resources>

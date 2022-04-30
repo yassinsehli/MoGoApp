@@ -36,7 +36,7 @@
         android:id="@+id/txtid333"
         android:layout_width="299dp"
         android:layout_height="110dp"
-        android:text="An idea you want to capture, a personal goal to achieve, a job to do, a habit to  follow, a project you collaborated with  colleagues or even a list of courses to  share with the family"
+        android:text="An idea you want to capture, a personal goal to achieve, a task to complete, a habit to  follow, a project you collaborated with  colleagues ! It all happens HERE !"
         android:textSize="13sp"
         android:typeface="monospace"
         app:layout_constraintBottom_toBottomOf="parent"

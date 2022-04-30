@@ -1,11 +1,10 @@
 package com.example.mogo_app;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-
 import androidx.appcompat.app.AppCompatActivity;
+
 
 public class ContextPage extends AppCompatActivity {
     Button next;
@@ -14,13 +13,14 @@ public class ContextPage extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.contextpage);
 
-
-        //intents and buttons of CONTEXT VIEW
+        // Variable's association :
         next = findViewById(R.id.idbtn);
+
+        //Methods :
         next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i1 = new Intent(ContextPage.this, LoginMenu.class);
+                Intent i1 = new Intent(ContextPage.this,LoginMenu.class);
                 startActivity(i1);
             }
         });
